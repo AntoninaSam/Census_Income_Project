@@ -1,2 +1,2 @@
-*checkpoint.ipynb
-notebooks/.ipynb_checkpoints/
+# notebooks\.ipynb_checkpoints
+# *checkpoint.ipynb
